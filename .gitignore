@@ -1,0 +1,11 @@
+.cache/*
+.config/*
+_*
+node_modules/*
+.vaultsecrets
+.nvmrc
+.vaultlocalrc
+.vscode/
+.history/
+jsconfig.json
+.DS_Store
